@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IamGrootie
 - 👀 I’m interested in Front-end Dev and UX/UI design
-- 🌱 I’m currently learning jss, HTML and CSS
+- 🌱 I’m currently learning js, HTML and CSS
 - 💞️ I’m looking to collaborate on any project you may be interested so I can grow
 - 📫 How to reach me ligiatmonteiro@gmail.com
 
