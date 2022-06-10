@@ -1,11 +1,8 @@
 ## ABOUT ME
 
-- 👋 Hi, I’m @IamGrootie
-- 👀 I’m currently invested in becoming a Front-end Dev 
-- 🌱 I’m currently learning js, HTML and CSS
+- 👋 Hi, I’m Gigi
+- 🌱 I’m currently learning js, HTML and CSS to become a Front-end Developer!
 - 💞️ I’m looking to collaborate on any project you may be interested so I can grow
-- 📫 How to reach me ligiatmonteiro@gmail.com
-
 
 <div align="center">
   <a href="https://github.com/IamGrootie">
