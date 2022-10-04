@@ -1,8 +1,7 @@
 ## ABOUT ME
 
 - 👋 Hi, I’m Gigi
-- 🌱 I’m currently learning js, HTML and CSS to become a Front-end Developer!
-- 💞️ I’m looking to collaborate on any project you may be interested so I can grow
+- 🌱 I’m a Front-end Developer!
 
 <div align="center">
   <a href="https://github.com/IamGrootie">
