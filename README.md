@@ -3,10 +3,16 @@
 - 👋 Hi, I’m Gigi
 - 🌱 I’m a Front-end Developer!
 
+* 🌍  I'm based in Porto, Portugal
+* 🖥️  You can see my portfolio at [here](https://www.ligiamonteiro.com/)
+* ⚡ Fun fact about me: I'm a bookworm!
+
+## My GitHub Stats
 <div align="center">
   <a href="https://github.com/IamGrootie">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IamGrootie&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamGrootie&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="http://www.github.com/IamGrootie"><img src="https://github-readme-stats.vercel.app/api?username=IamGrootie&show_icons=true&title_color=e683d9&icon_color=0480ef&text_color=75eeb2&bg_color=193549&hide_border=true" alt="IamGrootie's GitHub stats" /></a>
+  <a href="http://www.github.com/IamGrootie"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamGrootie&langs_count=3&title_color=e683d9&icon_color=0480ef&text_color=75eeb2&bg_color=193549&hide_border=true" alt="Top Languages"/></a>
+    <a href="http://www.github.com/IamGrootie"><img src="https://github-readme-activity-graph.vercel.app/graph?username=IamGrootie&bg_color=193549&color=e683d9&line=0480ef&point=e683d9&area_color=193549&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 </div>
   
 ## SKILLS
@@ -17,7 +23,9 @@
   <img align="center" alt="Logo-React" height="30" width="40" src="logos/React-icon.svg">
   <img align="center" alt="Logo-Angular" height="30" width="40" src="logos/Angular_full_color_logo.svg">
   <img align="center" alt="Rafa-Redux" height="30" width="40" src="logos/ReduxLogo.svg">
+  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="36" height="36" alt="SASS" /></a> 
   <img align="center" alt="Logo-Illustrator" height="30" width="40" src="logos/Adobe_Illustrator_CC_icon.svg">
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="36" height="36" alt="FIGMA" /></a>
 </div>
 
 ##
